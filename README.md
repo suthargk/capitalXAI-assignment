@@ -32,10 +32,7 @@ To start the development server, run the following command:
 1. Video Playback Controls.
 2. Timestamp-Based Text Overlay.
 3. Animation and Font Customization.
-
-### Not Covered:
-
-1. Export video functionality
+4. Export video functionality
 
 ### Video Sample
 
