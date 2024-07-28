@@ -14,6 +14,7 @@
     "@remotion/transitions": "^4.0.183",
     "classnames": "^2.5.1",
     "clsx": "^2.1.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
     "next": "^13.4.13",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
