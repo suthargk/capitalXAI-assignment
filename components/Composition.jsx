@@ -84,6 +84,7 @@ const Composition = ({ renderTimestamp }) => {
           startFrom={0} // if video is 30fps, then it will start at 2s
           endAt={60 * 60} // if video is 30fps, then it will end at 4s
           disableRemotePlayback
+          delayRenderTimeoutInMilliseconds={40000}
         />
       </Sequence>
 
